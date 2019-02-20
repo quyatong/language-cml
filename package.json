@@ -6,7 +6,7 @@
     "language",
     "grammar"
   ],
-  "repository": "git@github.com:quyatong/language-cml.git",
+  "repository": "https://github.com/quyatong/language-cml.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
